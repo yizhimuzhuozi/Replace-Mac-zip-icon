@@ -9,7 +9,12 @@ Mac 本身是不支持 RAR 压缩包（这是由于 RAR 格式不是开源的压
 
 我自己使用的解压软件是 The Unarchiver，看腻了默认的压缩包图标。发现压缩包的图标可以替换的。找了一圈没找到好看的图标，自己改了几个。
 
+## 1.0
+
 <img width="1263" alt="CleanShot 2023-09-04 at 16 54 02@2x" src="https://github.com/yizhimuzhuozi/Replace-Mac-zip-icon/assets/31234254/8aaee16b-c2c4-4b4d-815b-7d377732e3df">
+
+## 2.0
+![](img/2.0.png)
 
 目前只做了 4 个常用图标。**rar、zip、7z、tar**。
 
